@@ -40,9 +40,3 @@ A compact development board built around the STM32F401RCT6 microcontroller. The 
 
 ---
 
-## Repository Structure
-
-```text
-├── hardware/              # KiCad project files (.kicad_sch, .kicad_pcb)
-├── documentation/         # Schematic PDFs, interactive BOM, and layout images
-└── production/            # Manufacturing deliverables (Gerbers, Drill, BOM, CPL)
