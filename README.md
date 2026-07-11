@@ -7,15 +7,15 @@ A compact development board built around the STM32F401RCT6 microcontroller. The 
 ## Visuals
 
 ### Schematic Diagram
-![Schematic](documentation/schematic.png)
+![Schematic](Images/schematic.png)
 
 ### PCB Layout
-![PCB Layout](documentation/pcb_layout.png)
+![PCB Layout](Images/pcb_layout.png)
 
 ### 3D Renders
 | Front View | Back View |
 | :---: | :---: |
-| ![3D Render Front](documentation/3d_render_front.png) | ![3D Render Back](documentation/3d_render_back.png) |
+| ![3D Render Front](Images/3d_render_front.png) | ![3D Render Back](Images/3d_render_back.png) |
 
 ---
 
